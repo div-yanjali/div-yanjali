@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GovGuide – A chatbot-powered platform that helps users navigate and understand government schemes easily through a simple website interface.](https://gov-guide-ai.vercel.app/)
 
-- 🌱 I’m currently exploring AI-powered chatbots and how they can enhance user experiences. At the same time, I’m building on my full-stack development skills to create smarter, more responsive web apps. Always eager to learn and grow with each project.
+- 🌱 Exploring AI-powered chatbots and how they can enhance user experiences. At the same time, I’m building on my full-stack development skills to create smarter, more responsive web apps. Always eager to learn and grow with each project.
 
 - 📫 How to reach me **divyanjali0017@gmail.com**
 
