@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divyanjali</h1>
-<h3 align="center">I’m a 4th-year B.Tech student passionate about solving real-world problems through technology. My work blends intelligent systems, full-stack development, and a strong foundation in DSA and OOP.</h3>
+<h3 align="center">I’m a 4th-year B.Tech student passionate about solving real-world problems through technology. My work blends intelligent systems, full-stack development, and a strong foundation in DSA and OOPs.</h3>
 
 - 🔭 I’m currently working on [GovGuide – A chatbot-powered platform that helps users navigate and understand government schemes easily through a simple website interface.](https://gov-guide-ai.vercel.app/)
 
