@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Divyanjali</h1>
 <h3 align="center">I’m a 4th-year B.Tech student passionate about solving real-world problems through technology. My work blends intelligent systems, full-stack development, and a strong foundation in DSA and OOPs.</h3>
 
-- 🔭 I’m currently working on [GovGuide – A chatbot-powered platform that helps users navigate and understand government schemes easily through a simple website interface.](https://gov-guide-ai.vercel.app/)
-
 - 🌱 Exploring AI-powered chatbots and how they can enhance user experiences. At the same time, I’m building on my full-stack development skills to create smarter, more responsive web apps. Always eager to learn and grow with each project.
 
 - 📫 How to reach me **divyanjali0017@gmail.com**
@@ -47,7 +45,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=div-yanjali&show_icons=true&locale=en&layout=compact" alt="div-yanjali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=div-yanjali&show_icons=true&locale=en" alt="div-yanjali" /></p>
